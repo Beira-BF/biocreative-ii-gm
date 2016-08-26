@@ -1,2 +1,2 @@
-# biocreative-ii-1a
+# biocreative-ii-gm
 BioCreative II task 1a (GM) corpus
